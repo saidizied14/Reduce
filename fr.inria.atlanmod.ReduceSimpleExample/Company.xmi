@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <company:Company xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:company="company" xsi:schemaLocation="company company.ecore">
      <manager name="person1" lastname="person1lastname" age="21" salary="10"/>
-     <manager name="person1" lastname="person1lastname" age="22" salary="20"/>
-     <manager name="person1" lastname="person1lastname" age="23" salary="30"/>
-     <manager name="person1" lastname="person1lastname" age="24" salary="40"/>
-     <manager name="person1" lastname="person1lastname" age="25" salary="50"/>
+     <manager name="person2" lastname="person2lastname" age="22" salary="20"/>
+     <manager name="person3" lastname="person3lastname" age="23" salary="30"/>
+     <manager name="person4" lastname="person4lastname" age="24" salary="40"/>
+     <manager name="person5" lastname="person5lastname" age="25" salary="50"/>
 </company:Company>
