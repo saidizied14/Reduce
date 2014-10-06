@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<emfprofileapplication:ProfileApplication xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:emfprofileapplication="http://www.modelversioning.org/emfprofile/application/1.1">
+  <importedProfiles nsURI="company/configuration/profile" location="platform:/resource/ConfigurationRuntimeProfile.REDUCE/profile.emfprofile_diagram"/>
+</emfprofileapplication:ProfileApplication>
