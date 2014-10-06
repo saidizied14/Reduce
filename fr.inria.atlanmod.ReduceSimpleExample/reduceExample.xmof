@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
 <ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:fUML.Syntax.Actions.CompleteActions="http://www.modelexecution.org/xmof/syntax/actions/completeactions" xmlns:fUML.Syntax.Actions.IntermediateActions="http://www.modelexecution.org/xmof/syntax/actions/intermediateactions" xmlns:fUML.Syntax.Activities.ExtraStructuredActivities="http://www.modelexecution.org/xmof/syntax/activities/extrastructuredactivities" xmlns:fUML.Syntax.Activities.IntermediateActivities="http://www.modelexecution.org/xmof/syntax/activities/intermediateactivities" xmlns:fUML.Syntax.CommonBehaviors.BasicBehaviors="http://www.modelexecution.org/xmof/syntax/commonbehaviors/basicbehaviors" xmlns:kernel="http://www.modelexecution.org/xmof/syntax/classes/mykernel" name="companyConfiguration" nsURI="company/configuration" nsPrefix="companyConf">
   <eClassifiers xsi:type="kernel:BehavioredEClass" name="PersonConfiguration">
-    <eSuperTypes href="company.ecore#//Person"/>
+    <eSuperTypes href="platform:/resource/fr.inria.atlanmod.ReduceSimpleExample/company.ecore#//Person"/>
   </eClassifiers>
   <eClassifiers xsi:type="kernel:BehavioredEClass" name="CompanyConfiguration">
-    <eSuperTypes href="company.ecore#//Company"/>
+    <eSuperTypes href="platform:/resource/fr.inria.atlanmod.ReduceSimpleExample/company.ecore#//Company"/>
     <eOperations xsi:type="kernel:BehavioredEOperation" name="main" method="//CompanyConfiguration/main.1"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="sumSalaries" lowerBound="1" volatile="true" defaultValueLiteral="0">
       <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EInt"/>

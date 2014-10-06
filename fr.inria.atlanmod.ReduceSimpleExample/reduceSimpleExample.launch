@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.modelexecution.xmof.debug.launchConfigurationType">
+<stringAttribute key="ATT_CONFIGURATION_METAMODEL_PATH" value="/fr.inria.atlanmod.ReduceSimpleExample/reduceExample.xmof"/>
+<stringAttribute key="ATT_INIT_MODEL_PATH" value="/fr.inria.atlanmod.ReduceSimpleExample/parameter.xmi"/>
+<stringAttribute key="ATT_MODEL_PATH" value="/fr.inria.atlanmod.ReduceSimpleExample/Company.xmi"/>
+<stringAttribute key="ATT_RUNTIME_PROFILE_APPLICATION_FILE_PATH" value="/fr.inria.atlanmod.ReduceSimpleExample/Company.xmi.runtime.pa.xmi"/>
+<stringAttribute key="ATT_RUNTIME_PROFILE_NSURI" value="company/configuration/profile"/>
+<booleanAttribute key="ATT_USE_CONFIGURATION_METAMODEL" value="true"/>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="process_factory_id" value="org.modelexecution.xmof.debug.processFactory"/>
+</launchConfiguration>
